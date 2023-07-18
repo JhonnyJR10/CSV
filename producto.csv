@@ -644,20 +644,20 @@ dia,cantidad,producto
 27/05/2023,120,Suprecol 20-20-20
 27/05/2023,60,Suprecol Humic
 27/05/2023,60,Suprecol 11-8-6
-28/05/2023,20,Suprecol Calcio
-28/05/2023,20,Suprecol SmaxOkalero
-28/05/2023,20,Suprecol Enraizador
+28/05/2023,40,Suprecol Calcio
+28/05/2023,40,Suprecol SmaxOkalero
+28/05/2023,40,Suprecol Enraizador
 28/05/2023,40,Suprecol Trihormonal Caja
-28/05/2023,20,Suprecol 20-20-20
-28/05/2023,20,Suprecol 20-20-20
+28/05/2023,40,Suprecol 20-20-20
+28/05/2023,40,Suprecol 20-20-20
 29/05/2023,80,Suprecol 20-20-20
 29/05/2023,20,Suprecol PK
-29/05/2023,10,Suprecol Adherente
-29/05/2023,10,Suprecol Adherente
-29/05/2023,10,Suprecol PK
+29/05/2023,20,Suprecol Adherente
+29/05/2023,20,Suprecol Adherente
+29/05/2023,20,Suprecol PK
 30/05/2023,,
-31/05/2023,10,Suprecol PK
-31/05/2023,10,Suprecol 20-20-20
+31/05/2023,20,Suprecol PK
+31/05/2023,20,Suprecol 20-20-20
 31/05/2023,10,Suprecol Azufre
 31/05/2023,100,Suprecol 20-20-20
 31/05/2023,20,Suprecol Humic
@@ -675,31 +675,31 @@ dia,cantidad,producto
 2/06/2023,60,Suprecol Humic
 2/06/2023,120,Suprecol 20-20-20
 2/06/2023,60,Suprecol Humic
-3/06/2023,25,Suprecol 35-10-10 Kg
-3/06/2023,25,Suprecol 20-20-20 Kg
-3/06/2023,28,Suprecol Maiz
-3/06/2023,14,Suprecol Magnesio
+3/06/2023,50,Suprecol 35-10-10 Kg
+3/06/2023,50,Suprecol 20-20-20 Kg
+3/06/2023,40,Suprecol Maiz
+3/06/2023,20,Suprecol Magnesio
 3/06/2023,80,Suprecol Detergente
 4/06/2023,60,Suprecol 35-10-10
 4/06/2023,50,Suprecol Fosforo Kg
 4/06/2023,60,Suprecol Enraizador
 4/06/2023,60,Suprecol Trihormonal
-5/06/2023,20,Suprecol PK
+5/06/2023,40,Suprecol PK
 5/06/2023,80,Suprecol Fosfito
 5/06/2023,60,Suprecol Fosfito
-5/06/2023,20,Suprecol 20-20-20
+5/06/2023,40,Suprecol 20-20-20
 5/06/2023,80,Suprecol 20-20-20
 6/06/2023,,
 7/06/2023,80,Suprecol 20-20-20
-7/06/2023,20,Suprecol PK
-7/06/2023,10,Suprecol Adherente
-7/06/2023,10,Suprecol Adherente
-7/06/2023,10,Suprecol PK
+7/06/2023,40,Suprecol PK
+7/06/2023,40,Suprecol Adherente
+7/06/2023,40,Suprecol Adherente
+7/06/2023,40,Suprecol PK
 8/06/2023,50,Suprecol PH
-8/06/2023,20,Suprecol PH
+8/06/2023,40,Suprecol PH
 8/06/2023,80,Suprecol Enraizador
 8/06/2023,100,Suprecol 20-20-20
-8/06/2023,20,Suprecol Humic
+8/06/2023,40,Suprecol Humic
 8/06/2023,40,Suprecol PK
 9/06/2023,60,Suprecol Cu
 9/06/2023,40,Suprecol Fosfito
@@ -710,26 +710,26 @@ dia,cantidad,producto
 10/06/2023,60,Suprecol Humic
 10/06/2023,120,Suprecol 20-20-20
 10/06/2023,60,Suprecol Humic
-10/06/2023,25,Suprecol 35-10-10 Kg
-10/06/2023,25,Suprecol 20-20-20 Kg
-11/06/2023,28,Suprecol Maiz
-11/06/2023,14,Suprecol Magnesio
+10/06/2023,50,Suprecol 35-10-10 Kg
+10/06/2023,50,Suprecol 20-20-20 Kg
+11/06/2023,40,Suprecol Maiz
+11/06/2023,40,Suprecol Magnesio
 11/06/2023,80,Suprecol Detergente
 11/06/2023,60,Suprecol 35-10-10
 11/06/2023,60,Suprecol Enraizador
 11/06/2023,80,Suprecol Trihormonal
-12/06/2023,20,Suprecol PK
+12/06/2023,40,Suprecol PK
 12/06/2023,80,Suprecol 20-20-20
-12/06/2023,20,Suprecol 20-20-20 Kg
+12/06/2023,50,Suprecol 20-20-20 Kg
 12/06/2023,80,Suprecol 11-8-6
 12/06/2023,20,Suprecol Calcio
-12/06/2023,20,Suprecol SmaxOkalero
+12/06/2023,60,Suprecol SmaxOkalero
 13/06/2023,,
 14/06/2023,100,Suprecol Trihormonal Caja
 14/06/2023,80,Suprecol 20-20-20
 14/06/2023,60,Suprecol 20-20-20
 14/06/2023,80,Suprecol 20-20-20
-14/06/2023,20,Suprecol PK
+14/06/2023,40,Suprecol PK
 15/06/2023,60,Suprecol Maiz
 
 
