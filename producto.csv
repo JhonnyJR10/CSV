@@ -1,8 +1,8 @@
 dia,cantidad,producto
-1/02/2023,80,suprecol 20-20-20
+1/02/2023,80,Suprecol 20-20-20
 1/02/2023,10,Suprecol Cacao
 1/02/2023,14,Suprecol Cacao
-1/02/2023,14,Suprecol Café 
+1/02/2023,20,Suprecol Café 
 1/02/2023,14,Suprecol Café
 1/02/2023,14,Suprecol Boro 
 2/02/2023,28,Suprecol Maiz
@@ -514,11 +514,11 @@ dia,cantidad,producto
 30/04/2023,14,Suprecol Magnesio
 30/04/2023,80,Suprecol Detergente
 30/04/2023,60,Suprecol 35-10-10
-1/05/2023,80,suprecol 20-20-20
+1/05/2023,80,Suprecol 20-20-20
 1/05/2023,10,Suprecol Cacao
 1/05/2023,14,Suprecol Cacao
 1/05/2023,14,Suprecol Café 
-1/05/2023,14,Suprecol Café
+1/05/2023,60,Suprecol Café
 1/05/2023,14,Suprecol Boro 
 2/05/2023,,
 3/05/2023,20,Suprecol PK
@@ -734,5 +734,6 @@ dia,cantidad,producto
 15/06/2023,60,Suprecol SmaxOkalero
 15/06/2023,100,Suprecol Potasio Kg
 15/06/2023,80,Suprecol PK
+15/06/2023,60,Suprecol Café
 
 
