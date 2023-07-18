@@ -413,11 +413,11 @@ dia,cantidad,producto
 12/04/2023,20,Suprecol PK
 13/04/2023,20,Suprecol 20-20-20
 13/04/2023,20,Suprecol 20-20-20 Kg
-13/04/2023,20,Suprecol 11-8-6
+13/04/2023,60,Suprecol 11-8-6
 13/04/2023,20,Suprecol Calcio
 13/04/2023,20,Suprecol SmaxOkalero
 13/04/2023,20,Suprecol Enraizador
-13/04/2023,20,Suprecol Trihormonal Caja
+13/04/2023,60,Suprecol Trihormonal Caja
 14/04/2023,20,Suprecol 20-20-20
 14/04/2023,20,Suprecol 20-20-20
 14/04/2023,80,Suprecol 20-20-20
@@ -477,7 +477,7 @@ dia,cantidad,producto
 23/04/2023,80,Suprecol Enraizador
 23/04/2023,60,Suprecol Humic
 24/04/2023,,
-25/04/2023,20,Suprecol 11-8-6
+25/04/2023,60,Suprecol 11-8-6
 25/04/2023,20,Suprecol Calcio
 25/04/2023,20,Suprecol SmaxOkalero
 25/04/2023,20,Suprecol Enraizador
@@ -524,11 +524,11 @@ dia,cantidad,producto
 3/05/2023,20,Suprecol PK
 3/05/2023,20,Suprecol 20-20-20
 3/05/2023,20,Suprecol 20-20-20 Kg
-3/05/2023,20,Suprecol 11-8-6
+3/05/2023,40,Suprecol 11-8-6
 3/05/2023,20,Suprecol Calcio
 3/05/2023,20,Suprecol SmaxOkalero
 3/05/2023,20,Suprecol Enraizador
-4/05/2023,20,Suprecol Trihormonal Caja
+4/05/2023,80,Suprecol Trihormonal Caja
 4/05/2023,20,Suprecol 20-20-20
 4/05/2023,20,Suprecol 20-20-20
 4/05/2023,80,Suprecol 20-20-20
@@ -578,11 +578,11 @@ dia,cantidad,producto
 13/05/2023,20,Suprecol PK
 13/05/2023,20,Suprecol 20-20-20
 13/05/2023,20,Suprecol 20-20-20 Kg
-13/05/2023,20,Suprecol 11-8-6
+13/05/2023,60,Suprecol 11-8-6
 14/05/2023,20,Suprecol Calcio
 14/05/2023,20,Suprecol SmaxOkalero
 14/05/2023,20,Suprecol Enraizador
-14/05/2023,20,Suprecol Trihormonal Caja
+14/05/2023,60,Suprecol Trihormonal Caja
 14/05/2023,20,Suprecol 20-20-20
 14/05/2023,20,Suprecol 20-20-20
 15/05/2023,80,Suprecol 20-20-20
@@ -643,11 +643,11 @@ dia,cantidad,producto
 27/05/2023,60,Suprecol Humic
 27/05/2023,120,Suprecol 20-20-20
 27/05/2023,60,Suprecol Humic
-27/05/2023,20,Suprecol 11-8-6
+27/05/2023,60,Suprecol 11-8-6
 28/05/2023,20,Suprecol Calcio
 28/05/2023,20,Suprecol SmaxOkalero
 28/05/2023,20,Suprecol Enraizador
-28/05/2023,20,Suprecol Trihormonal Caja
+28/05/2023,40,Suprecol Trihormonal Caja
 28/05/2023,20,Suprecol 20-20-20
 28/05/2023,20,Suprecol 20-20-20
 29/05/2023,80,Suprecol 20-20-20
@@ -725,7 +725,7 @@ dia,cantidad,producto
 12/06/2023,20,Suprecol Calcio
 12/06/2023,20,Suprecol SmaxOkalero
 13/06/2023,,
-14/06/2023,20,Suprecol Trihormonal Caja
+14/06/2023,100,Suprecol Trihormonal Caja
 14/06/2023,80,Suprecol 20-20-20
 14/06/2023,60,Suprecol 20-20-20
 14/06/2023,80,Suprecol 20-20-20
